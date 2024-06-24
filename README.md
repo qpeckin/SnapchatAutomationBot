@@ -46,4 +46,5 @@ Install the script
 ## Support
 
 For support, join my DC server at discord.gg/qpeckin
+[GitHub Pages](discord.gg/qpeckin)
 
