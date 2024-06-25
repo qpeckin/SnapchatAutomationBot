@@ -2,7 +2,7 @@
 # Snapchat Bot [Discord Based]
 
 A Project to automatize task on Snapchat (Accept friends, send messages, track followers)
-Using: Snapchat Web & Selenium
+- Using: Snapchat Web & Selenium
 
 
 ## Screenshots
