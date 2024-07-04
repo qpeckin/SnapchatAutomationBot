@@ -18,7 +18,11 @@ A Project to automatize task on Snapchat (Accept friends, send messages, track f
 - AutoAccept Module - Log into your accounts and accept the friends requests [can be looped]
 - Messages Module - Send messages to your friends
 - Followers Track - Show the bots followers everyday
-- [Soon] Schedule stories on the bots accounts
+
+## Future Features
+- Schedule stories on the bots accounts [Soon] 
+- Delete Friends [Features not available on Snapchat Web]
+- Chuncks System [5accs/IP -> Bypass RateLimit]
 
 ## Discord Commands
 
