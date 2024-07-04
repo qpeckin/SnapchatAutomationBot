@@ -29,8 +29,10 @@ A Project to automatize task on Snapchat (Accept friends, send messages, track f
 - /add account:pass (add the bot into the DB)
 - /log (show today's logs)
 - /restart (restart the bot process)
-
-
+- /accept all (accept all friends requests on all accounts)
+- /accept nickname (accept all friends requests on the specified nickname)
+- /accept loop interval (accept all friends requests on all accounts every *time*)
+- /msg nickname message (send a customized *message* to all friends)
 
 ## Installation
 
