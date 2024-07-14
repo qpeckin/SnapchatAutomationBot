@@ -56,6 +56,6 @@ For support, join my DC server at [discord.gg/qpeckin](https://discord.gg/qpecki
 
 ## More
 
-If you're interested in buying Snapchat Accounts you can check my HF sells [here](https://hackforums.net/showthread.php?tid=6274832)) 
+If you're interested in buying Snapchat Accounts you can check my HF sells [[here]](https://hackforums.net/showthread.php?tid=6274832) 
 
 
